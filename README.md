@@ -9,10 +9,20 @@ Hey there! I’m **SANTHEESH S** 👋
 
 ---
 
-## 🚀 Featured Projects:
-- [cite_start]**[Vehicle Management System](https://vehicle-mg.web.app/):** A MERN-based logistics solution for SMEs to digitalize parking and slot availability[cite: 18, 19, 22, 23].
-- [cite_start]**[Money Map](https://map-the-money.web.app/):** Comprehensive personal finance dashboard built with the MERN stack[cite: 24, 25, 26, 27].
-- [cite_start]**[Patient Booking System](https://app-for-patients.web.app/):** A healthcare management solution for appointment scheduling and patient intake[cite: 29, 30, 31, 32].
+## 📊 Technical Impact & Statistics:
+
+### 🏆 Competitive Coding Excellence
+- **Global Standing:** Ranked in the **Top 13.28%** of users worldwide on LeetCode.
+- **Problem Solving Velocity:** Maintained an average of **1,760+ submissions** in the past year, demonstrating extreme consistency.
+- **Platform Mastery:** - **Python:** 380+ problems solved.
+    - **Java:** 310+ problems solved.
+- [cite_start]**Winning Streak:** **8-Time Coding Contest Winner** across various platforms[cite: 35].
+
+### 💻 Development & Engineering Metrics
+- [cite_start]**Full-Stack Proficiency:** Successfully deployed **3+ Live Web Applications** (Vehicle Management, Finance Dashboard, Healthcare System)[cite: 22, 26, 31].
+- **Code Contribution:** Achieved a peak **18-day contribution streak** on GitHub, managing multiple repository workflows.
+- [cite_start]**Academic Standard:** Maintained a **CGPA of 8.38** while completing two specialized internships[cite: 7, 13, 15].
+- [cite_start]**Credential Strength:** Holder of **2 Industry-Grade Certifications** (MongoDB Associate & Oracle Apex)[cite: 37].
 
 ---
 
@@ -21,27 +31,22 @@ Hey there! I’m **SANTHEESH S** 👋
 
 [cite_start]**Frameworks & Libraries:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) [cite: 9]
 
-[cite_start]**Tools & Hosting:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) [cite: 9]
-
 ---
 
-## 📈 Competitive Programming:
+## 📈 Live Activity:
 <p align="left">
   <img src="https://leetcode-stats-card.herokuapp.com/?username=santheesh24&theme=dark" alt="LeetCode Stats" />
 </p>
 
-- 🚀 **LeetCode Highlights:**
+- 🚀 **Milestones:**
     - [cite_start]**640+ Problems Solved** (399 Easy, 227 Medium, 14 Hard)[cite: 5].
-    - **1,697 Max Contest Rating** (Top 13.28% global ranking).
-    - **1,760+ Submissions** in the past year.
-    - **100 Days Badge 2025** and **50 Days Badge 2024** holder.
-- [cite_start]🏆 **8-Time Coding Contest Winner**[cite: 35].
+    - **1,697 Max Contest Rating**.
+    - **100 Days Badge 2025** holder.
 - [cite_start]🎓 **Finalist in Hackvotrix Hackathon**[cite: 34].
-- [cite_start]📜 **Certifications:** **MongoDB Associate Developer** and **Oracle Apex Cloud Developer**[cite: 37].
 
 ---
 
 ## 🌐 Socials:
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santheesh-s/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://santheesh-s.web.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/little_santhu_001) [cite: 1, 2]
+[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santheesh-s/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://santheesh-s.web.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/little_santhu_001) [cite: 2]
 
 ![](https://visitcount.itsvg.in/api?id=SANTHEESH&icon=0&color=0)
