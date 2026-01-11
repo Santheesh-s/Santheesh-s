@@ -29,7 +29,7 @@ I am a **Computer Science Engineering student** at Kongu Engineering College wit
 
 ## 📈 Live Activity:
 <p align="left">
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=santheesh24&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-6h27.vercel.app/api?username=santheesh24&theme=dark" alt="LeetCode Stats" />
 </p>
 
 - 🚀 **Milestones:**
