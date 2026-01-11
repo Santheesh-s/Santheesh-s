@@ -27,7 +27,7 @@ I am a **Computer Science Engineering student** at Kongu Engineering College (CG
 
 ## 📈 Competitive Programming & Stats:
 <p align="left">
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=santheesh24&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=SANTHEESH0wTUR4&theme=dark" alt="LeetCode Stats" />
 </p>
 
 - 🏆 **8-Time Coding Contest Winner**
